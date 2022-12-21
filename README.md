@@ -1,0 +1,3 @@
+# CRNet
+Python demos for the paper "Channel-enhanced Remodeling-based Network for Salient Object Detection in Optical Remote Sensing Images".
+The code is being sorted and uploaded...
